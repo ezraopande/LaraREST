@@ -12,7 +12,6 @@
 -   **Pagination**: Built-in support for paginated responses to manage large datasets.
 -   **Rate Limiting**: Control the rate of API requests to prevent abuse and ensure fair usage.
 -   **Extensible**: Highly customizable and extendable to meet your specific requirements.
--   **API Documentation**: Detailed documentation and usage examples for easy integration.
 
 ## Installation
 
